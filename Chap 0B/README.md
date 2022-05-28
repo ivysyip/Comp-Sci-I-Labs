@@ -1,4 +1,4 @@
-# Data Types
+# Chapter 0B: Data Types
 ## Documentations
 Oracle: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html </br>
 Simplified Explanation: https://www.w3schools.com/java/java_data_types.asp </br> </br>
